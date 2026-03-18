@@ -1,6 +1,7 @@
 <h1>niiiik.com</h1>
 
-<p>www.niiiik.com简单容易记忆的几个logo～</p>
+www.niiiik.com
+简单容易记忆的几个logo～
 
 <img src="https://nik.homes/pic/Niiiik.com01.jpg" alt="">
 <img src="https://nik.homes/pic/Niiiik.com02.jpg" alt="">
